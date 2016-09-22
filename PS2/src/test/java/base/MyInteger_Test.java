@@ -10,7 +10,7 @@ import org.junit.Test;
 
 public class MyInteger_Test {
 	
-	MyInteger x = new MyInteger(4);
+	MyInteger x = new MyInteger(6);
 	MyInteger y = new MyInteger(11);
 	MyInteger z = new MyInteger(23);
 	MyInteger a = new MyInteger(6);
